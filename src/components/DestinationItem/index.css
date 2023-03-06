@@ -1,0 +1,15 @@
+.card-item {
+  list-style: none;
+  margin: 20px;
+}
+.image-setting {
+  width: 300px;
+}
+@media (max-width: 768px) {
+  .image-setting {
+    width: 300px;
+  }
+  .card-item {
+    margin: 0px;
+  }
+}
